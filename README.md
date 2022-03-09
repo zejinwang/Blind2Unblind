@@ -20,7 +20,7 @@ The model is built in Python3.8.5, PyTorch 1.7.1 in Ubuntu 18.04 environment.
 
 ### 2. Prepare Validation Dataset
 
-​	Please put your dataset under the path: **./Code/data/validation**.
+​	Please put your dataset under the path: **./Blind2Unblind/data/validation**.
 
 ## Pretrained Models
 
