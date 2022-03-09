@@ -9,13 +9,13 @@ The model is built in Python3.8.5, PyTorch 1.7.1 in Ubuntu 18.04 environment.
 - For processing ImageNet Validation, please run the command
 
   ```shell
-  python ./Code/dataset_tool.py
+  python ./dataset_tool.py
   ```
 
 - For processing SIDD Medium Dataset in raw-RGB, please run the command
 
   ```shell
-  python ./Code/dataset_tool_raw.py
+  python ./dataset_tool_raw.py
   ```
 
 ### 2. Prepare Validation Dataset
