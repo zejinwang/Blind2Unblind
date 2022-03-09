@@ -24,7 +24,7 @@ The model is built in Python3.8.5, PyTorch 1.7.1 in Ubuntu 18.04 environment.
 
 ## Pretrained Models
 
-The pre-trained models are placed in the folder: **./Code/pretrained_models**
+The pre-trained models are placed in the folder: **./Blind2Unblind/pretrained_models**
 
 ```yaml
 # # For synthetic denoising
