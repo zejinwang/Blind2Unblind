@@ -108,20 +108,17 @@ python benchmark_sidd_b2u.py --checkpoint ./pretrained_models/rawRGB_112rf20_bet
   *  For Confocal_FISH
 
     ```shell
-    python test_fmdd_b2u.py --checkpoint ./pretrained_models/Confocal_FISH_112rf20_beta20.pth --test_dirs ./dataset/fmdd_sub/validation --subfold Confocal_FISH --save_test_path ./test --log_name Confocal_FISH_b2u_sunet_fmdd_112rf20 --beta 20.0
+    python test_fmdd_b2u.py --checkpoint ./pretrained_models/Confocal_FISH_112rf20_beta20.pth --test_dirs ./dataset/fmdd_sub/validation --subfold Confocal_FISH --save_test_path ./test --log_name Confocal_FISH_b2u_unet_fmdd_112rf20 --beta 20.0
     ```
 
-  * For Confocal_MICE
+  *  For Confocal_MICE
 
     ```shell
-    python test_fmdd_b2u.py --checkpoint ./pretrained_models/Confocal_MICE_112rf20_beta19.7.pth --test_dirs ./dataset/fmdd_sub/validation --subfold Confocal_MICE --save_test_path ./test --log_name Confocal_MICE_b2u_sunet_fmdd_112rf20 --beta 19.7
+    python test_fmdd_b2u.py --checkpoint ./pretrained_models/Confocal_MICE_112rf20_beta19.7.pth --test_dirs ./dataset/fmdd_sub/validation --subfold Confocal_MICE --save_test_path ./test --log_name Confocal_MICE_b2u_unet_fmdd_112rf20 --beta 19.7
     ```
 
-  * For TwoPhoton_MICE
+  *  For TwoPhoton_MICE
 
     ```shell
-    python test_fmdd_b2u.py --checkpoint ./pretrained_models/TwoPhoton_MICE_112rf20_beta20.pth --test_dirs ./dataset/fmdd_sub/validation --subfold TwoPhoton_MICE --save_test_path ./test --log_name TwoPhoton_MICE_b2u_sunet_fmdd_112rf20 --beta 20.0
+    python test_fmdd_b2u.py --checkpoint ./pretrained_models/TwoPhoton_MICE_112rf20_beta20.pth --test_dirs ./dataset/fmdd_sub/validation --subfold TwoPhoton_MICE --save_test_path ./test --log_name TwoPhoton_MICE_b2u_unet_fmdd_112rf20 --beta 20.0
     ```
-
-    
-
