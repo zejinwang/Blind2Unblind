@@ -1,4 +1,14 @@
 # Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots
+[Blind2Unblind](https://arxiv.org/abs/2203.06967)
+If you use this code for a paper please cite:
+```
+@inproceedings{wang2022blind2unblind,
+  title={Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots}, 
+  author={Zejin Wang and Jiazheng Liu and Guoqing Li and Hua Han},
+  booktitle={International Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2022}
+}
+```
 ## Installation
 The model is built in Python3.8.5, PyTorch 1.7.1 in Ubuntu 18.04 environment.
 
