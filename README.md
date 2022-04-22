@@ -34,7 +34,7 @@ The model is built in Python3.8.5, PyTorch 1.7.1 in Ubuntu 18.04 environment.
 ​	Please put your dataset under the path: **./Blind2Unblind/data/validation**.
 
 ## Pretrained Models
-
+Pre-trained models: [Google Drive](https://drive.google.com/drive/folders/1ruA6-SN1cyf30-GHS8w2YD1FG-0A-k7h?usp=sharing) 
 The pre-trained models are placed in the folder: **./Blind2Unblind/pretrained_models**
 
 ```yaml
