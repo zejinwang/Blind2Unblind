@@ -3,11 +3,13 @@
 
 ## Citing Blind2Unblind
 ```
-@inproceedings{wang2022blind2unblind,
-  title={Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots}, 
-  author={Zejin Wang and Jiazheng Liu and Guoqing Li and Hua Han},
-  booktitle={International Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2022}
+@InProceedings{Wang_2022_CVPR,
+    author    = {Wang, Zejin and Liu, Jiazheng and Li, Guoqing and Han, Hua},
+    title     = {Blind2Unblind: Self-Supervised Image Denoising With Visible Blind Spots},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {2027-2036}
 }
 ```
 ## Installation
