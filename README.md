@@ -54,7 +54,7 @@ The pre-trained models are placed in the folder: **./Blind2Unblind/pretrained_mo
 # # For raw-RGB denoising
 ./pretrained_models/rawRGB_112rf20_beta19.4.pth
 
-# # For fluorescence microscopy denooising
+# # For fluorescence microscopy denoising
 # Confocal_FISH
 ./pretrained_models/Confocal_FISH_112rf20_beta20.pth
 # Confocal_MICE
